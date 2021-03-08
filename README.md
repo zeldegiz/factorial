@@ -1,2 +1,2 @@
 # factorial
-factorial.py contain only one factorial(x,y) function . you use this function and calculate factorial fast .  
+factorial.py contain only one factorial(x,y) function . With this function you can calculate the factorial faster.
